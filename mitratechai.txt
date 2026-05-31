@@ -1,3 +1,5 @@
 welcome to Mitraa
 Blockchain
-Web and Mobile app developement
+Web and Mobile App Developement
+Enterprise Agile Developement
+Cyber Security
